@@ -5,9 +5,6 @@
       <p>Hello Hello, my name is Abbas. I do not have any programming experience but I'm very exciting to learn. 
 	My main interest is Caramel Frappuccino's from Starbucks with extra caramel drizzle. I also like to read books.</p> 
     </td>
-    <td>
-	<img src="imageofme.png" width=300px></img>
-    </td>
   </tr>
   <tr>
     <td colspan=2>
