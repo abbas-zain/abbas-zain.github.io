@@ -1,5 +1,4 @@
 
-<!DOCTYPE html>
 <html>
 
       <h3>Abbas Zain Ul Abidin</h3>
