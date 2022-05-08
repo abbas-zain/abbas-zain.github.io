@@ -29,17 +29,5 @@
     </p>
   <td>
 <td>
-
-  
-
-<tr>
- <td colspan = 2 align=center>
-     <img src="pic1.png" width="285px"></img>
-	<img src="pic2.png" width="265px"></img>
-	<img src="pic3.png" width="255px"></img>
- </td>
-</tr>
- </tr>
-</table>
 </body>
 </html>
