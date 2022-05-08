@@ -4,7 +4,7 @@
       <h3>Abbas Zain Ul Abidin</h3>
       <p>Hello Hello, my name is Abbas. I do not have any programming experience but I'm very exciting to learn. 
 	My main interest is Caramel Frappuccino's from Starbucks with extra caramel drizzle. I also like to read books.</p> 
-    </td>
+ 
   </tr>
   <tr>
     <td colspan=2>
